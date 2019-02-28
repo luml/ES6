@@ -1,4 +1,5 @@
 /** 
+ * Hoisting means Javascript can declare variables after use them. JavaScript Initializations can't be hoisted, declarations can be hoisted
  * Here's my opinion abount what difference between const let and var
  * Common, 
  *        all of them need to be used within scope,
